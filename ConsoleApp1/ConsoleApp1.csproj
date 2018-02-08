@@ -50,9 +50,6 @@
     <Reference Include="PubnubPCL, Version=4.0.13.0, Culture=neutral, PublicKeyToken=dc66f52ce6619f44, processorArchitecture=MSIL">
       <HintPath>..\packages\PubnubPCL.4.0.13\lib\netstandard1.4\PubnubPCL.dll</HintPath>
     </Reference>
-    <Reference Include="RingCentral, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\RingCentral.Client.2.0.0\lib\RingCentral.dll</HintPath>
-    </Reference>
     <Reference Include="System" />
     <Reference Include="System.AppContext, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
       <HintPath>..\packages\System.AppContext.4.3.0\lib\net46\System.AppContext.dll</HintPath>
